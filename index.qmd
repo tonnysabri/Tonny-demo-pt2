@@ -1,6 +1,23 @@
 ---
-title: "Tonny demo pt2"
+title: "Curriculum Vitae"
 ---
+
+click [here](files/cv.pdf)
+
+# contact Information
+
+# Education
+
+# current Position(s)
+
+# Previous Position
+
+
+
+
+
+
+
 
 This is a Quarto website.
 
